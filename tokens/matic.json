@@ -560,6 +560,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
   },
   {
+    "name": "USD+",
+    "address": "0x236eec6359fb44cce8f97e99387aa7f8cd5cde1f",
+    "symbol": "usd+",
+    "decimals": 6,
+    "chainId": 137,
+    "logoURI": "https://2173993027-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F9HhCCgYexXiRot0OWAJY%2Fuploads%2FQ41zhb0z0oV5WI1zpKEg%2FUSD%2B%20logo.png?alt=media&token=533d9ed9-6904-4f45-82a3-2c9e1060a3b5"
+  },
+  {
     "name": "Tether USD",
     "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
     "symbol": "USDT",
