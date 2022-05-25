@@ -143,6 +143,14 @@
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/crv.jpg"
   },
+   {
+    "name": "Dystopia",
+    "address": "0x39aB6574c289c3Ae4d88500eEc792AB5B947A5Eb",
+    "symbol": "DYST",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/dystopia-exchange/dystopia-brand-assets/master/logo/Dystopia%20logo%20all%20versions_icon.png"
+  },
   {
     "name": "Dai Stablecoin",
     "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
