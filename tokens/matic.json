@@ -1,5 +1,13 @@
 [
  {
+    "name": "CompliFi",
+    "address": "0x72bba3aa59a1ccb1591d7cddb714d8e4d5597e96",
+    "symbol": "COMPFI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/15006/small/complifi.PNG?1619413977"
+  },
+ {
     "name": "OtterClam",
     "address": "0xc250e9987a032acac293d838726c511e6e1c029d",
     "symbol": "CLAM",
