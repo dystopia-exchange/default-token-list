@@ -352,6 +352,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4/logo.png"
   },
   {
+    "address": "0x17e9c5b37283ac5fbe527011cec257b832f03eb3",
+    "chainId": 137,
+    "name": "Sphere Finance",
+    "symbol": "SPHERE",
+    "decimals": 18,
+    "logoURI": "https://app.sphere.finance/static/media/sphere_logo_icon.2cbc48ec.svg"
+  },
+  {
     "address": "0x91cA694d2B293f70Fe722fbA7d8A5259188959c3",
     "name": "Hifi Finance",
     "symbol": "MFT",
