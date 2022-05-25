@@ -1,5 +1,29 @@
 [
   {
+    "name": "Staked MATIC (PoS)",
+    "address": "0x3a58a54c066fdc0f2d55fc9c89f0415c92ebf3c4",
+    "symbol": "stmatic",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/24185/small/stMATIC.png"
+  },
+  {
+    "name": "TETU_ST_QI",
+    "address": "0x4cd44ced63d9a6fef595f6ad3f7ced13fceac768",
+    "symbol": "tetuQi",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/tetu-io/tetu-brand-assets/master/token_icons/tetuQi.png"
+  },
+  {
+    "name": "Synapse",
+    "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+    "symbol": "syn",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/18024/small/syn.png"
+  },
+  {
     "name": "Aave",
     "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
     "symbol": "AAVE",
