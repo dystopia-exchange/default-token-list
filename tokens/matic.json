@@ -1,5 +1,13 @@
 [
  {
+    "name": "PEN",
+    "address": "0x9008D70A5282a936552593f410AbcBcE2F891A97",
+    "symbol": "PEN",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://uploads-ssl.webflow.com/628bbd8fdddcbe028a5de907/628bcd5cbb2b50166540005b_penrose_triangle.svg"
+  },
+ {
     "name": "CompliFi",
     "address": "0x72bba3aa59a1ccb1591d7cddb714d8e4d5597e96",
     "symbol": "COMPFI",
