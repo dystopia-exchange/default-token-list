@@ -936,14 +936,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x46D502Fac9aEA7c5bC7B13C8Ec9D02378C33D36F/logo.png"
   },
   {
-   "name": "Kommunitas",
-   "address": "0xC004e2318722EA2b15499D6375905d75Ee5390B8",
-   "symbol": "KOM",
-   "decimals": 8,
-   "chainId": 137,
-   "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xC004e2318722EA2b15499D6375905d75Ee5390B8/logo.png"
- },
- {
+    "name": "Kommunitas",
+    "address": "0xC004e2318722EA2b15499D6375905d75Ee5390B8",
+    "symbol": "KOM",
+    "decimals": 8,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xC004e2318722EA2b15499D6375905d75Ee5390B8/logo.png"
+  },
+  {
     "chainId": 137,
     "address": "0x3f717919deF69f81d17b80839bf8af35697ccbFa",
     "name": "Data Exchange Token",
@@ -1079,8 +1079,8 @@
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xd8cA34fd379d9ca3C6Ee3b3905678320F5b45195/logo.png"
   },
-    {
-      "name": "ETH 2x Flexible Leverage Index PoS",
+  {
+    "name": "ETH 2x Flexible Leverage Index PoS",
     "address": "0x66d7FDCc7403f18cAE9b0e2e8385649D2AcBC12A",
     "symbol": "ETH2x-FLI",
     "decimals": 18,
@@ -1233,11 +1233,19 @@
   },
   {
     "name": "Crypto Raider",
+    "chainId": 137,
     "address": "0xcd7361ac3307D1C5a46b63086a90742Ff44c63B3",
     "symbol": "RAIDER",
     "decimals": 18,
-    "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xcd7361ac3307D1C5a46b63086a90742Ff44c63B3/logo.png"
+  },
+  {
+    "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+    "chainId": 137,
+    "name": "StargateToken",
+    "symbol": "STG",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/matic/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590.jpg"
   },
   {
     "name": "Nature Carbon Tonne",
